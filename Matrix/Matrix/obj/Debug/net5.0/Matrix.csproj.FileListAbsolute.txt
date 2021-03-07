@@ -1,0 +1,16 @@
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.csprojAssemblyReference.cache
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfoInputs.cache
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.AssemblyInfo.cs
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.csproj.CoreCompileInputs.cache
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.exe
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.deps.json
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.json
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.runtimeconfig.dev.json
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.dll
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\ref\Matrix.dll
+D:\Project_C#\Matrix\Matrix\bin\Debug\net5.0\Matrix.pdb
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.dll
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\ref\Matrix.dll
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.pdb
+D:\Project_C#\Matrix\Matrix\obj\Debug\net5.0\Matrix.genruntimeconfig.cache
