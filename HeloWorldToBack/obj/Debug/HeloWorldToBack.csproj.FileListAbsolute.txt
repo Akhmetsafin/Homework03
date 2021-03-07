@@ -1,0 +1,6 @@
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\bin\Debug\HeloWorldToBack.exe
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\bin\Debug\HeloWorldToBack.pdb
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\obj\Debug\HeloWorldToBack.csprojAssemblyReference.cache
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\obj\Debug\HeloWorldToBack.csproj.CoreCompileInputs.cache
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\obj\Debug\HeloWorldToBack.exe
+D:\Project_C#\HeloWorldToBack\HeloWorldToBack\obj\Debug\HeloWorldToBack.pdb
