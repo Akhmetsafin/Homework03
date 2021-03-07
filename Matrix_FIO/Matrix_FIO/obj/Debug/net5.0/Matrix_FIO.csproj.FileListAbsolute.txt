@@ -1,0 +1,16 @@
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.exe
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.deps.json
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.runtimeconfig.json
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.runtimeconfig.dev.json
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.dll
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\ref\Matrix_FIO.dll
+D:\Project_C#\Matrix_FIO\Matrix_FIO\bin\Debug\net5.0\Matrix_FIO.pdb
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.csprojAssemblyReference.cache
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.AssemblyInfoInputs.cache
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.AssemblyInfo.cs
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.csproj.CoreCompileInputs.cache
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.dll
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\ref\Matrix_FIO.dll
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.pdb
+D:\Project_C#\Matrix_FIO\Matrix_FIO\obj\Debug\net5.0\Matrix_FIO.genruntimeconfig.cache
